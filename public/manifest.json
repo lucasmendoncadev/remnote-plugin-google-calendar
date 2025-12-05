@@ -1,9 +1,9 @@
 {
   "manifestVersion": 1,
-  "id": "plugin_template",
-  "name": "Plugin Template",
+  "id": "remnote-plugin-google-calendar",
+  "name": "Google Calendar Integration",
   "author": "remnote",
-  "repoUrl": "",
+  "repoUrl": "https://github.com/lucasmendoncadev/remnote-plugin-google-calendar",
   "version": {
     "major": 0,
     "minor": 0,
